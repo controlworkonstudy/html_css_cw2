@@ -1,0 +1,259 @@
+.m0 {
+    margin: 0;
+}
+
+.p0 {
+    padding: 0;
+}
+
+.db {
+    display: block;
+}
+
+.w64 {
+    width: 64px;
+}
+
+.fd9d9d9 {
+    fill: #d9d9d9;
+}
+
+.cf2f2f2 {
+    color: #f2f2f2;
+}
+
+.cffffff {
+    color: #ffffff;
+}
+
+.fs4r {
+    font-size: 4rem;
+}
+
+.fs1p5r {
+    font-size: 1.5rem;
+}
+
+.fs1p25r {
+    font-size: 1.25rem;
+}
+
+.ffr {
+    font-family: Roboto, sans-serif;
+}
+
+.ffm {
+    font-family: Montserrat, sans-serif;
+}
+
+.ffo {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bi1 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("https://images01.nicepage.com/c461c07a441a5d220e8feb1a/503e2657e28355119e3107fa/fgfg-min.jpg");
+}
+
+.bp50p50p {
+    background-position: 50% 50%;
+}
+
+.bsc {
+    background-size: cover;
+}
+
+.tac {
+    text-align: center;
+}
+
+.jcc {
+    justify-content: center;
+}
+
+.df {
+    display: flex;
+}
+
+.w900 {
+    width: 900px;
+}
+
+.w512 {
+    width: 512px;
+}
+
+.w1000 {
+    width: 1000px;
+}
+
+.mt270 {
+    margin-top: 270px;
+}
+
+.mlauto {
+    margin-left: auto;
+}
+
+.mrauto {
+    margin-right: auto;
+}
+
+.fw400 {
+    font-weight: 400;
+}
+
+.fsi {
+    font-style: italic;
+}
+
+.pr20 {
+    padding-right: 20px;
+}
+
+.pl20 {
+    padding-left: 20px;
+}
+
+.lh1p5 {
+    line-height: 1.5;
+}
+
+.bc84c0a0 {
+    background-color: #84c0a0;
+}
+
+.ttu {
+    text-transform: uppercase;
+}
+
+.br50 {
+    border-radius: 50px;
+}
+
+.pt10 {
+    padding-top: 10px;
+}
+
+.pb10 {
+    padding-bottom: 10px;
+}
+
+.mt40 {
+    margin-top: 40px;
+}
+
+.mt90 {
+    margin-top: 90px;
+}
+
+.mb90 {
+    margin-bottom: 90px;
+}
+
+.mb60 {
+    margin-bottom: 60px;
+}
+
+.w120 {
+    width: 120px;
+}
+
+.tdn {
+    text-decoration: none;
+}
+
+.bi2 {
+    background-image: url("https://images01.nicepage.com/98/69/98697f8a5035ec93bad682b65a13f41c.jpeg");
+}
+
+.fdc {
+    flex-direction: column;
+}
+
+.w600 {
+    width: 600px;
+}
+
+.h450 {
+    height: 450px;
+}
+
+.pt30 {
+    padding-top: 30px;
+}
+
+.pb30 {
+    padding-bottom: 30px;
+}
+
+.pl50 {
+    padding-left: 50px;
+}
+
+.pr50 {
+    padding-right: 50px;
+}
+
+.w100 {
+    width: 100px;
+}
+
+.w400 {
+    width: 400px;
+}
+
+.h7 {
+    height: 7px;
+}
+
+.w708 {
+    width: 708px;
+}
+
+.h400 {
+    height: 400px;
+}
+
+.bcf2f2f2 {
+    background-color: #f2f2f2;
+}
+
+.ml30 {
+    margin-left: 30px;
+}
+
+.bi3 {
+    background-image: url("https://images01.nicepage.com/2f/a5/2fa540df7187a7eeb5f596f9d0726e2d.jpeg");
+}
+
+.mt30 {
+    margin-top: 30px;
+}
+
+.brc84c0a0 {
+    border-color: #84c0a0;
+}
+
+.brw3 {
+    border-width: 3px;
+}
+
+.brss {
+    border-style: solid;
+}
+
+.fs2r {
+    font-size: 2rem;
+}
+
+.pt80 {
+    padding-top: 80px;
+}
+
+.mtn30 {
+    margin-top: -30px;
+}
+
+.ml15 {
+    margin-left: 15px;
+}
